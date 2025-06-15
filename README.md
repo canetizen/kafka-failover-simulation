@@ -1,6 +1,5 @@
 # kafka-failover-simulation
 
-**Description:**
 A distributed Kafka failover simulation built with **Java** and **Docker Compose**.
 All build, startup, and failover scenarios are managed by a single shell script.
 The project demonstrates how producers and consumers respond to broker failures and recover automatically in a real-world, containerized Kafka environment.
